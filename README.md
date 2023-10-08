@@ -1,3 +1,4 @@
+![logo](https://github.com/VickySingha/VickySingha/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vicky Singha</h1>
 <h3 align="center">A passionate multi disciplinary Software and Hardware engineer from India</h3>
 <img align="right" alt="coding" width="400" src"https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
